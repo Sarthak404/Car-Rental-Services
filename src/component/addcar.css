@@ -1,0 +1,36 @@
+.addcarform {
+    display: flex;
+    flex-direction: column;
+    height: 420px;
+    width: 50%;
+    background-color: white;
+    padding: 40px 20px;
+    align-items: center;
+    margin: 50px auto;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+      rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    border: 2px solid black;
+  }
+  
+  .addcarform h2 {
+    margin-top: -20px;
+    color: black;
+    font-weight: bold;
+    font-size: 24px;
+  }
+  
+  input{
+    height: 25px;
+    width: 300px;
+    border-radius: 10px;
+}
+button{
+    background-color: red;
+    margin-top: 20px;
+    width: 300px;
+    padding: 6px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+  

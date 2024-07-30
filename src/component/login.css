@@ -1,0 +1,45 @@
+.loginform{
+    display: flex;
+    flex-direction: column;
+    height: 200px;
+    width: 30%;
+    background-color:white;
+    padding: 60px 20px;
+    align-items: center;
+    margin: 150px 450px;
+    box-shadow: rgba(50, 50,93,0.25) 0px 50px 100px -20px,
+    rgba(0,0,0,0.3) 0px 30px 60px -30px;
+    border: 2px solid black;
+}
+.loginform h2{
+    margin-top: -50px;
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+}
+.labell{
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+}
+.labell label{
+    margin-bottom: 10px;
+}
+input{
+    height: 25px;
+    width: 300px;
+    border-radius: 10px;
+}
+button{
+    background-color: red;
+    margin-top: 20px;
+    width: 300px;
+    padding: 6px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+.signup{
+    color:red;
+
+}

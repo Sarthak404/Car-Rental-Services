@@ -1,0 +1,36 @@
+footer{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    background-color: #333;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 20px;
+   }
+   .TeamMember{
+     display: flex;
+     flex-direction: row;
+     color: white;
+   }
+   .TeamMember h3{
+     margin-right: 20px;
+   }
+   .titteam{
+     color: red;
+     margin-left: 160px;
+     margin-bottom: -10px;
+   }
+   .social{
+     display: flex;
+     flex-direction: row;
+     color: white;
+     justify-content: space-between;
+   }
+  .social a{
+   font-size: 25px;
+  }
+   .titsoc{
+     color: red;
+     margin-left: -10px;
+     margin-bottom: 10px;
+   }
